@@ -1,3 +1,5 @@
-FreeCAD/*.fcstd1
-STL/*.gcode
-STL/*.g
+hardware/3d-model/src/components/*.fcstd1
+hardware/3d-model/src/*.fcstd1
+hardware/3d-model/*.fcstd1
+hardware/3d-model/stl/*.gcode
+hardware/diy-electronics/**/*~

@@ -13,7 +13,8 @@ This repository contains almost all the files for the hardware you need to
 build your own *Escornabot*, including models for printed parts and schematics
 for a DIY keypad with 5 buttons.
 
-This files are, currently, for an improved version of *Escornabot «Brivoi»*.
+This files are, currently, for an improved and a *work in progress* version of
+*Escornabot «Brivoi»*.
 
 Documentation (in spanish) is in the [EscornaWiki][PRO01], the Escornabot
 Project Wiki.

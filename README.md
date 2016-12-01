@@ -19,7 +19,8 @@ This files are, currently, for an improved and a *work in progress* version of
 Documentation (in spanish) is in the [EscornaWiki][PRO01], the Escornabot
 Project Wiki.
 
-Changes in this repository will be eventually pushed to the [main project
+Changes in this repository should be eventually pushed to the [main 
+project
 repository][REP01] when they are deemed stable enough.
 
 [ESC01]: https://raw.githubusercontent.com/xoan/escornabot/master/images/escornabot.png
